@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is a Blog website for MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pradeeshkumard/MERN-BLOGS.git"
+  },
+  "keywords": [
+    "MERN",
+    "BLOGS"
+  ],
+  "author": "Pradeesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pradeeshkumard/MERN-BLOGS/issues"
+  },
+  "homepage": "https://github.com/Pradeeshkumard/MERN-BLOGS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0",
+    "nodemon": "^3.1.10"
+  }
+}
